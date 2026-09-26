@@ -1,0 +1,16 @@
+Number,Type,Name,Registration Point,Filename
+111,bitmap,button_1,"(36, 70)",
+16,bitmap,button_2,"(120, 39)",
+15,bitmap,door_1,"(36, 70)",
+17,bitmap,door_2,"(120, 39)",
+112,bitmap,item_plates,"(62, 73)",
+67,bitmap,obj_flies_5,"(4, 42)",5
+69,bitmap,obj_floater1_6,"(17, 75)",6
+46,bitmap,obj_floater2_6,"(17, 95)",6
+56,bitmap,obj_leaf_9,"(-23, 77)",11
+26,bitmap,obj_pool_1,"(134, -146)",4
+80,bitmap,obj_smoke_1,"(264, 288)",10
+70,bitmap,obj_steam1,"(7, 15)",9
+40,bitmap,obj_underwater_1,"(97, -184)",2
+34,bitmap,obj_waterfall1,"(223, -183)",6
+30,bitmap,obj_waves_1,"(126, -158)",4
