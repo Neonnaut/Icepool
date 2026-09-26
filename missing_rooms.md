@@ -1,6 +1,6 @@
-# Ohm Cave
+# Uhm Cave
 
-This room could be accessed through a hole in the ground via Cloud Plaza during a quest to get an "Ohm stone" for Zorof. No screenshots, videos or other captures of this room can be found, but we know it looked like The Beneath.
+This room could be accessed through a hole in the ground via Cloud Plaza during a quest to pick up an "Uhm stone" for Zorof. No screenshots, videos or other captures of this room can be found, but we know it looked like The Beneath.
 
 # Maze Train Station
 
