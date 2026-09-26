@@ -20,35 +20,35 @@ If you think you may be able to help, please send a message to the server-owner 
 
 | room | background | foreground | NPCs | animations |
 |-----|-----|-----|-----|-----|
-| 01_dragon_port | [x] | [x] | [x] | [x] |
-| 02_cloud_garden | [x] | [ ] | [ ] | [ ] |
-| 03_cloud_plaza | [x] | [ ] | [ ] | [ ] |
-| 04_sky_terrace | [x] | [ ] | [ ] | [ ] |
-| 05_sky_port | [x] | [ ] | [ ] | [ ] |
-| 06_members_lounge | [x] | [ ] | [ ] | [ ] |
-| 07_cloud_plaza_lift_hall | [x] | [x] | [x] | [x] |
-| 08_the_beneath_lift_hall | [x] | [ ] | [ ] | [ ] |
-| 09_the_den | [x] | [x] | [ ] | [x] |
-| 10_aqua_lounge | [x] | [x] | [x] | [x] |
-| 11_zorofs_shop | [x] | [ ] | [x] | [ ] |
-| 12_snipo_snapo | [x] | [ ] | [x] | [ ] |
-| 13_sky_towers_lobby | [x] | [ ] | [x] | [x] |
-| 14_hadleys_apartment | [x] | [ ] | [x] | [x] |
-| 15_misty_haven | [x] | [x] | [x] | [x] |
-| 16_misty_mansion | [x] | [x] | [x] | [x] |
-| 17_stable_yard | [x] | [x] | [x] | [x] |
-| 18_misty_mansion_hall | [x] | [ ] | [x] | [x] |
-| 19_misty_island_shop | [x] | [x] | [x] | [x] |
-| 20_pet_shop | [x] | [ ] | [ ] | [ ] |
-| 21_ancient_skyport | [x] | [ ] | [ ] | [ ] |
-| 22_temple_gardens | [x] | [ ] | [x] | [ ] |
-| 23_treetop_jungle | [x] | [ ] | [ ] | [ ] |
-| 24_meyan_temple | [x] | [ ] | [x] | [ ] |
-| 25_transit_bar | [ ] | [ ] | [ ] | [ ] |
-| 26_meyan_race_stadium | [x] | [ ] | [ ] | [ ] |
-| 27_the_bongo_camp | [x] | [ ] | [x] | [x] |
-| 28_bongo_excavation | [ ] | [ ] | [x] | [x] |
-| 29_everflow_cavern | [x] | [ ] | [ ] | [ ] |
-| 30_bongo_cave | [x] | [ ] | [ ] | [ ] |
-| 31_resurrection_chamber | [x] | [ ] | [ ] | [ ] |
-| 32_tram_station | [x] | [ ] | [ ] | [ ] |
+| 01_dragon_port | Done | Done | Done | Done |
+| 02_cloud_garden | Done |  |  |  |
+| 03_cloud_plaza | Done |  |  |  |
+| 04_sky_terrace | Done |  |  |  |
+| 05_sky_port | Done |  |  |  |
+| 06_members_lounge | Done |  |  |  |
+| 07_cloud_plaza_lift_hall | Done | Done | Done | Done |
+| 08_the_beneath_lift_hall | Done |  |  |  |
+| 09_the_den | Done | Done |  | Done |
+| 10_aqua_lounge | Done | Done | Done | Done |
+| 11_zorofs_shop | Done |  | Done |  |
+| 12_snipo_snapo | Done |  | Done |  |
+| 13_sky_towers_lobby | Done |  | Done | Done |
+| 14_hadleys_apartment | Done |  | Done | Done |
+| 15_misty_haven | Done | Done | Done | Done |
+| 16_misty_mansion | Done | Done | Done | Done |
+| 17_stable_yard | Done | Done | Done | Done |
+| 18_misty_mansion_hall | Done |  | Done | Done |
+| 19_misty_island_shop | Done | Done | Done | Done |
+| 20_pet_shop | Done |  |  |  |
+| 21_ancient_skyport | Done |  |  |  |
+| 22_temple_gardens | Done |  | Done |  |
+| 23_treetop_jungle | Done |  |  |  |
+| 24_meyan_temple | Done |  | Done |  |
+| 25_transit_bar |  |  |  |  |
+| 26_meyan_race_stadium | Done |  |  |  |
+| 27_the_bongo_camp | Done |  | Done | Done |
+| 28_bongo_excavation |  |  | Done | Done |
+| 29_everflow_cavern | Done |  |  |  |
+| 30_bongo_cave | Done |  |  |  |
+| 31_resurrection_chamber | Done |  |  |  |
+| 32_tram_station | Done |  |  |  |
