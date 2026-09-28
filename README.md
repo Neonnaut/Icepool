@@ -20,35 +20,38 @@ If you think you may be able to help, please send a message to the server-owner 
 
 | room | background | foreground | NPCs | animations |
 |-----|-----|-----|-----|-----|
-| 01_dragon_port | Done | Done | Done | Done |
-| 02_cloud_garden | Done |  |  |  |
-| 03_cloud_plaza | Done |  |  |  |
-| 04_sky_terrace | Done |  |  |  |
-| 05_sky_port | Done |  |  |  |
-| 06_members_lounge | Done |  |  |  |
-| 07_cloud_plaza_lift_hall | Done | Done | Done | Done |
-| 08_the_beneath_lift_hall | Done |  |  |  |
-| 09_the_den | Done | Done |  | Done |
-| 10_aqua_lounge | Done | Done | Done | Done |
-| 11_zorofs_shop | Done |  | Done |  |
-| 12_snipo_snapo | Done |  | Done |  |
-| 13_sky_towers_lobby | Done |  | Done | Done |
-| 14_hadleys_apartment | Done |  | Done | Done |
-| 15_misty_haven | Done | Done | Done | Done |
-| 16_misty_mansion | Done | Done | Done | Done |
-| 17_stable_yard | Done | Done | Done | Done |
-| 18_misty_mansion_hall | Done |  | Done | Done |
-| 19_misty_island_shop | Done | Done | Done | Done |
-| 20_pet_shop | Done |  |  |  |
-| 21_ancient_skyport | Done |  |  |  |
-| 22_temple_gardens | Done |  | Done |  |
-| 23_treetop_jungle | Done |  |  |  |
-| 24_meyan_temple | Done |  | Done |  |
+| 01_dragon_port | RECOVERED | RECOVERED | RECOVERED | RECOVERED |
+| 02_cloud_garden | recreated |  |  |  |
+| 03_cloud_plaza | recreated |  |  |  |
+| 04_sky_terrace | recreated |  |  |  |
+| 05_sky_port | recreated |  |  |  |
+| 06_members_lounge | recreated |  |  |  |
+| 07_cloud_plaza_lift_hall | RECOVERED | RECOVERED | RECOVERED | RECOVERED |
+| 08_the_beneath_lift_hall | recreated |  |  |  |
+| 09_the_den | RECOVERED | RECOVERED |  | RECOVERED |
+| 10_aqua_lounge | RECOVERED | RECOVERED | recreated^ | RECOVERED |
+| 11_zorofs_shop | recreated |  | recreated |  |
+| 12_snipo_snapo | recreated |  | recreated |  |
+| 13_sky_towers_lobby | recreated |  |  |  |
+| 14_hadleys_apartment | recreated |  | recreated | recreated |
+| 15_misty_haven | RECOVERED | RECOVERED | RECOVERED | RECOVERED |
+| 16_misty_mansion | RECOVERED | RECOVERED | RECOVERED | RECOVERED |
+| 17_stable_yard | recreated | recreated | NA | NA |
+| 18_misty_mansion_hall | recreated |  | NA | NA |
+| 19_misty_island_shop | recreated | recreated | RECOVERED | NA |
+| 20_pet_shop | recreated |  |  |  |
+| 21_ancient_skyport | recreated |  | NA | NA |
+| 22_temple_gardens | recreated |  | recreated |  |
+| 23_treetop_jungle | recreated |  | recreated^ |  |
+| 24_meyan_temple | recreated |  | recreated |  |
 | 25_transit_bar |  |  |  |  |
-| 26_meyan_race_stadium | Done |  |  |  |
-| 27_the_bongo_camp | Done |  | Done | Done |
-| 28_bongo_excavation |  |  | Done | Done |
-| 29_everflow_cavern | Done |  |  |  |
-| 30_bongo_cave | Done |  |  |  |
-| 31_resurrection_chamber | Done |  |  |  |
-| 32_tram_station | Done |  |  |  |
+| 26_meyan_race_stadium | recreated |  |  |  |
+| 27_the_bongo_camp | recreated* |  | recreated | NA |
+| 28_bongo_excavation | recreated |  | NA | NA |
+| 29_everflow_cavern | recreated* |  |  |  |
+| 30_bongo_cave | recreated |  |  |  |
+| 31_resurrection_chamber | recreated |  | NA | NA |
+| 32_tram_station | recreated |  |  |  |
+
+^ The files/frames are not on Icepool
+\* A compromise was made
