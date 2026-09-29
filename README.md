@@ -21,25 +21,25 @@ If you think you may be able to help, please send a message to the server-owner 
 | room | background | foreground | NPCs | animations |
 |-----|-----|-----|-----|-----|
 | 01_dragon_port | RECOVERED | RECOVERED | RECOVERED | RECOVERED |
-| 02_cloud_garden | recreated |  |  |  |
-| 03_cloud_plaza | recreated |  |  |  |
-| 04_sky_terrace | recreated |  |  |  |
-| 05_sky_port | recreated |  |  |  |
-| 06_members_lounge | recreated |  |  |  |
+| 02_cloud_garden | recreated | recreated^ | recreated | NA |
+| 03_cloud_plaza* | recreated | recreated^ | recreated | NA |
+| 04_sky_terrace | recreated | recreated^ | RECOVERED | recreated^ |
+| 05_sky_port | recreated | RECOVERED | RECOVERED | RECOVERED | RECOVERED |
+| 06_members_lounge | recreated |  | NA | NA |
 | 07_cloud_plaza_lift_hall | RECOVERED | RECOVERED | RECOVERED | RECOVERED |
-| 08_the_beneath_lift_hall | recreated |  |  |  |
+| 08_the_beneath_lift_hall | recreated |  | NA | RECOVERED |
 | 09_the_den | RECOVERED | RECOVERED |  | RECOVERED |
 | 10_aqua_lounge | RECOVERED | RECOVERED | recreated^ | RECOVERED |
 | 11_zorofs_shop | recreated |  | recreated |  |
-| 12_snipo_snapo | recreated |  | recreated |  |
-| 13_sky_towers_lobby | recreated |  |  |  |
+| 12_snipo_snapo | recreated |  | recreated | RECOVERED |
+| 13_sky_towers_lobby | recreated |  | ? | ? |
 | 14_hadleys_apartment | recreated |  | recreated | recreated |
 | 15_misty_haven | RECOVERED | RECOVERED | RECOVERED | RECOVERED |
 | 16_misty_mansion | RECOVERED | RECOVERED | RECOVERED | RECOVERED |
 | 17_stable_yard | recreated | recreated | NA | NA |
-| 18_misty_mansion_hall | recreated |  | NA | NA |
+| 18_misty_mansion_hall | recreated | recreated^ | NA | NA |
 | 19_misty_island_shop | recreated | recreated | RECOVERED | NA |
-| 20_pet_shop | recreated |  |  |  |
+| 20_pet_shop | recreated | receated^ |  | NA |
 | 21_ancient_skyport | recreated |  | NA | NA |
 | 22_temple_gardens | recreated |  | recreated |  |
 | 23_treetop_jungle | recreated |  | recreated^ |  |
@@ -54,4 +54,5 @@ If you think you may be able to help, please send a message to the server-owner 
 | 32_tram_station | recreated |  |  |  |
 
 ^ The files/frames are not on Icepool
-\* A compromise was made
+
+\* A compromise was made to create the background
