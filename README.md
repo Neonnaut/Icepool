@@ -32,7 +32,7 @@ If you think you may be able to help, please send a message to the server-owner 
 | 10_aqua_lounge | RECOVERED | recreated^ | RECOVERED |
 | 11_zorofs_shop | recreated | recreated |  |
 | 12_snipo_snapo | recreated | recreated | RECOVERED |
-| 13_sky_towers_lobby | recreated |  |  |
+| 13_sky_towers_lobby | recreated | recreated | ??? |
 | 14_hadleys_apartment | recreated | recreated | recreated |
 | 15_misty_haven | RECOVERED | RECOVERED | RECOVERED |
 | 16_misty_mansion | RECOVERED | RECOVERED | RECOVERED |
@@ -45,13 +45,13 @@ If you think you may be able to help, please send a message to the server-owner 
 | 23_treetop_jungle | recreated | recreated^ |  |
 | 24_meyan_temple | recreated | recreated |  |
 | 25_transit_bar | recreated |  |  |
-| 26_meyan_race_stadium | recreated |  |  |
+| 26_meyan_race_stadium | recreated | recreated | recreated^ |
 | 27_the_bongo_camp | recreated* | recreated | NA |
 | 28_bongo_excavation | recreated | NA | NA |
-| 29_everflow_cavern | recreated* |  |  |
-| 30_bongo_cave | recreated |  |  |
+| 29_everflow_cavern | recreated* | recreated^ |  |
+| 30_bongo_cave | recreated | recreated |  |
 | 31_resurrection_chamber | recreated | NA | NA |
-| 32_tram_station | recreated | NA |  |
+| 32_tram_station | recreated | NA | recreated^ |
 
 ^ The files/frames are not on Icepool
 
