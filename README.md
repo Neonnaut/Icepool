@@ -41,10 +41,10 @@ If you think you may be able to help, please send a message to the server-owner 
 | 19_misty_island_shop | recreated  | RECOVERED | NA |
 | 20_pet_shop | recreated |  | NA |
 | 21_ancient_skyport | recreated | NA | NA |
-| 22_temple_gardens | recreated | recreated |  |
-| 23_treetop_jungle | recreated | recreated^ |  |
-| 24_meyan_temple | recreated | recreated |  |
-| 25_transit_bar | recreated |  |  |
+| 22_temple_gardens | recreated | recreated | recreated |
+| 23_treetop_jungle | recreated | recreated^ | recreated |
+| 24_meyan_temple | recreated | recreated | recreated |
+| 25_transit_bar | recreated |  | ?? |
 | 26_meyan_race_stadium | recreated | recreated | recreated^ |
 | 27_the_bongo_camp | recreated* | recreated | NA |
 | 28_bongo_excavation | recreated | NA | NA |
