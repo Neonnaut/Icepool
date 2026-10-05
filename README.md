@@ -52,8 +52,19 @@ If you think you may be able to help, please send a message to the server-owner 
 | 30_bongo_cave | recreated | recreated |  |
 | 31_resurrection_chamber | recreated | NA | NA |
 | 32_tram_station | recreated | NA | recreated^ |
+| 33_magma_lake | recreated | NA |  |
 
 ^ The files/frames are not on Icepool
 
 \* A compromise was made to create the background
 
+Still pending:
+
+- Field Librarian Dod (NPC) @ transit_bar
+- Night Star (NPC) @ bongo_excavation
+- zorof smoke machine @ zorofs_shop
+- Beneath lava ring @ everflow_cavern and bongo_cave
+- Beneath lava flows (multiple) @ everflow_cavern and bongo_cave
+- Magma lake lavaflow top @ magma_lake
+- Petrof pet shop merchant (NPC) @ pet_shop
+- Federov pet shop merchant (NPC) @ pet_shop
