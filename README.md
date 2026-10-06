@@ -18,41 +18,41 @@ If you think you may be able to help, please send a message to the server-owner 
 
 ## Progress
 
-| room | background | NPCs | animations |
-|-----|-----|-----|-----|
-| 01_dragon_port | RECOVERED | RECOVERED | RECOVERED |
-| 02_cloud_garden | recreated* | recreated | NA |
-| 03_cloud_plaza | recreated* | recreated | NA |
-| 04_sky_terrace | recreated | RECOVERED | recreated^ |
-| 05_sky_port | recreated | RECOVERED | RECOVERED | RECOVERED |
-| 06_members_lounge | recreated | NA | NA |
-| 07_cloud_plaza_lift_hall | RECOVERED | RECOVERED | RECOVERED |
-| 08_the_beneath_lift_hall | recreated | NA | RECOVERED |
-| 09_the_den | RECOVERED | restored  | RECOVERED |
-| 10_aqua_lounge | RECOVERED | recreated^ | RECOVERED |
-| 11_zorofs_shop | recreated | recreated |  |
-| 12_snipo_snapo | recreated | recreated | RECOVERED |
-| 13_sky_towers_lobby | recreated | recreated | |
-| 14_hadleys_apartment | recreated | recreated | recreated |
-| 15_misty_haven | RECOVERED | RECOVERED | RECOVERED |
-| 16_misty_mansion | RECOVERED | RECOVERED | RECOVERED |
-| 17_stable_yard | RECOLORED | NA | NA |
-| 18_misty_mansion_hall | recreated | NA | NA |
-| 19_misty_island_shop | recreated  | RECOVERED | NA |
-| 20_pet_shop | recreated |  | NA |
-| 21_ancient_skyport | recreated | NA | NA |
-| 22_temple_gardens | recreated | recreated | recreated |
-| 23_treetop_jungle | recreated | recreated^ | recreated |
-| 24_meyan_temple | recreated | recreated | recreated |
-| 25_transit_bar | recreated |  | RECOVERED |
-| 26_meyan_race_stadium | recreated | recreated | recreated^ |
-| 27_the_bongo_camp | recreated* | recreated | NA |
-| 28_bongo_excavation | recreated | NA | NA |
-| 29_everflow_cavern | recreated* | recreated^ |  |
-| 30_bongo_cave | recreated | recreated |  |
-| 31_resurrection_chamber | recreated | NA | NA |
-| 32_tram_station | recreated | NA | recreated^ |
-| 33_magma_lake | recreated | NA |  |
+|room|background|NPCs|animations|
+|-|-|-|-|
+|01\_dragon\_port|RECOVERED|RECOVERED|RECOVERED|
+|02\_cloud\_garden|recreated\*|recreated|NA|
+|03\_cloud\_plaza|recreated\*|recreated|NA|
+|04\_sky\_terrace|recreated|RECOVERED|recreated^|
+|05\_sky\_port|recreated|RECOVERED|RECOVERED|
+|06\_members\_lounge|recreated|NA|NA|
+|07\_cloud\_plaza\_lift\_hall|RECOVERED|RECOVERED|RECOVERED|
+|08\_the\_beneath\_lift\_hall|recreated|NA|RECOVERED|
+|09\_the\_den|RECOVERED|restored|RECOVERED|
+|10\_aqua\_lounge|RECOVERED|recreated^|RECOVERED|
+|11\_zorofs\_shop|recreated|recreated||
+|12\_snipo\_snapo|recreated|recreated|RECOVERED|
+|13\_sky\_towers\_lobby|recreated|recreated||
+|14\_hadleys\_apartment|recreated|recreated|recreated|
+|15\_misty\_haven|RECOVERED|RECOVERED|RECOVERED|
+|16\_misty\_mansion|RECOVERED|RECOVERED|RECOVERED|
+|17\_stable\_yard|RECOLORED|NA|NA|
+|18\_misty\_mansion\_hall|recreated|NA|NA|
+|19\_misty\_island\_shop|recreated|RECOVERED|NA|
+|20\_pet\_shop|recreated||NA|
+|21\_ancient\_skyport|recreated|NA|NA|
+|22\_temple\_gardens|recreated|recreated|recreated|
+|23\_treetop\_jungle|recreated|recreated^|recreated|
+|24\_meyan\_temple|recreated|recreated|recreated|
+|25\_transit\_bar|recreated||RECOVERED|
+|26\_meyan\_race\_stadium|recreated|recreated|recreated^|
+|27\_the\_bongo\_camp|recreated\*|recreated|NA|
+|28\_bongo\_excavation|recreated|NA|NA|
+|29\_everflow\_cavern|recreated\*|recreated^||
+|30\_bongo\_cave|recreated|recreated||
+|31\_resurrection\_chamber|recreated|NA|NA|
+|32\_tram\_station|recreated|NA|recreated^|
+|33\_magma\_lake|recreated|NA||
 
 ^ The files/frames are not on Icepool
 
@@ -60,11 +60,11 @@ If you think you may be able to help, please send a message to the server-owner 
 
 Still pending:
 
-- Field Librarian Dod (NPC) @ transit_bar
-- Night Star (NPC) @ bongo_excavation
-- zorof smoke machine @ zorofs_shop
-- Beneath lava ring @ everflow_cavern and bongo_cave
-- Beneath lava flows (multiple) @ everflow_cavern and bongo_cave
-- Magma lake lavaflow top @ magma_lake
-- Petrof pet shop merchant (NPC) @ pet_shop
-- Federov pet shop merchant (NPC) @ pet_shop
+* Field Librarian Dod (NPC) @ transit\_bar
+* Zorof smoke machine @ zorofs\_shop
+* Beneath lava ring @ everflow\_cavern and bongo\_cave
+* Beneath lava flows (multiple) @ everflow\_cavern and bongo\_cave
+* Magma lake lavaflow top @ magma\_lake
+* Petrof pet shop merchant (NPC) @ pet\_shop
+* Federov pet shop merchant (NPC) @ pet\_shop
+
