@@ -27,7 +27,7 @@ If you think you may be able to help, please send a message to the server-owner 
 |05\_sky\_port|recreated|RECOVERED|RECOVERED|
 |06\_members\_lounge|recreated|NA|NA|
 |07\_cloud\_plaza\_lift\_hall|RECOVERED|RECOVERED|RECOVERED|
-|08\_the\_beneath\_lift\_hall|recreated|NA|RECOVERED|
+|08\_the\_beneath\_lift\_hall|recreated||RECOVERED|
 |09\_the\_den|RECOVERED|restored|RECOVERED|
 |10\_aqua\_lounge|RECOVERED|recreated^|RECOVERED|
 |11\_zorofs\_shop|recreated|recreated||
@@ -57,14 +57,4 @@ If you think you may be able to help, please send a message to the server-owner 
 ^ The files/frames are not on Icepool
 
 \* A compromise was made to create the background
-
-Still pending:
-
-* Field Librarian Dod (NPC) @ transit\_bar
-* Zorof smoke machine @ zorofs\_shop
-* Beneath lava ring @ everflow\_cavern and bongo\_cave
-* Beneath lava flows (multiple) @ everflow\_cavern and bongo\_cave
-* Magma lake lavaflow top @ magma\_lake
-* Petrof pet shop merchant (NPC) @ pet\_shop
-* Federov pet shop merchant (NPC) @ pet\_shop
 
