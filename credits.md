@@ -1,7 +1,5 @@
 Playdo AB
 
-Cash 
-
 MaouKami
 
 Mike
